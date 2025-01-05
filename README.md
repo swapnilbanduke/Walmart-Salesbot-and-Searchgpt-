@@ -79,13 +79,12 @@ Language Models: Large language models are utilized in combination with LangChai
     ├── streamlit_interface.py
     └── walmart_functions.py
 
-
+'''
 ## 🚀 Getting Started
 
 ***Dependencies***
 
-Please ensure you have the following dependencies installed on your system: [requirements.txt](https://github.com/Shaon2221/Walmart-SalesBot-and-SearchGPT/blob/main/requirements.txt)
-
+Please ensure you have the following dependencies installed on your system: [requirements.txt]
 ### 🔧 Installation
 
 1. Clone the Walmart-SalesBot-and-SearchGPT repository:
