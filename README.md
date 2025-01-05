@@ -23,35 +23,6 @@
 <img src="https://img.shields.io/github/languages/top/Shaon2221/Walmart-SalesBot-and-SearchGPT?style=flat-square&color=5D6D7E" alt="GitHub top language" />
 </div>
 
----
-
-## 📖 Table of Contents
-- [📖 Table of Contents](#-table-of-contents)
-- [📍 Overview](#-overview)
-  - [Walmart Bot](#walmart-bot)
-    - [Walmart Bot Functionality](#walmart-bot-functionality)
-    - [Technical Implementation](#technical-implementation)
-    - [API and Framework Choices](#api-and-framework-choices)
-  - [SearchGPT Functionality](#searchgpt-functionality)
-    - [Technical Implementation](#technical-implementation-1)
-- [📦 Features](#-features)
-- [📂 Repository Structure](#-repository-structure)
-- [⚙️ Modules](#️-modules)
-- [🚀 Getting Started](#-getting-started)
-  - [🔧 Installation](#-installation)
-  - [🤖 Running Walmart-SalesBot-and-SearchGPT](#-running-walmart-salesbot-and-searchgpt)
-  - [🕹️ Running using Docker](#️-running-using-docker)
-  - [✨ Interface](#-interface)
-- [🛣 Project Screenshots](#-project-screenshots)
-- [🤝 Contributing](#-contributing)
-    - [*Contributing Guidelines*](#contributing-guidelines)
-- [📄 License](#-license)
-- [👏 Acknowledgments](#-acknowledgments)
-- [🛠️How to deploy the project](#️how-to-deploy-the-project)
-- [🧑‍🚀How to contact the Author](#how-to-contact-the-author)
-
----
-
 
 ## 📍 Overview
 
