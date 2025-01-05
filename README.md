@@ -112,7 +112,7 @@ Please ensure you have the following dependencies installed on your system: [req
 
 1. Clone the Walmart-SalesBot-and-SearchGPT repository:
 ```sh
-git clone https://github.com/Shaon2221/Walmart-SalesBot-and-SearchGPT
+git clone  https://github.com/swapnilbanduke/Walmart-Salesbot-and-Searchgpt
 ```
 
 2. Change to the project directory:
