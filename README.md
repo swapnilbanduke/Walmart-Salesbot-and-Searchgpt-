@@ -175,22 +175,6 @@ docker run -p 5000:5000 bot
 streamlit run streamlit_interface.py
 ```
 
----
-
-
-## 🛣 Project Screenshots
-
-![Walmart_Bot Screenshot](https://raw.githubusercontent.com/Shaon2221/Walmart-SalesBot-and-SearchGPT/main/Images/walmart_bot-screenshot.png)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here are several ways you can contribute:
-
-- **[Submit Pull Requests](https://github.com/Shaon2221/Walmart-SalesBot-and-SearchGPT/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/Shaon2221/Walmart-SalesBot-and-SearchGPT/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/Shaon2221/Walmart-SalesBot-and-SearchGPT/issues)**: Submit bugs found or log feature requests for Shaon2221.
 
 #### *Contributing Guidelines*
 
@@ -217,29 +201,5 @@ Contributions are welcome! Here are several ways you can contribute:
    ```
 7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
 
-Once your PR is reviewed and approved, it will be merged into the main branch.
-
-</details>
-
----
-
-## 📄 License
-
-
-This project is protected under the MIT License.
-
----
-
-## 👏 Acknowledgments
-
-- This projects is inspired by SalesGPT and other open source projects. But not copy paste, or any idea has not been stolen. Thanks to all the contributors.
-
-## 🛠️How to deploy the project
-You can deploy the project using Docker or Streamlit. You can also deploy the project using Heroku, AWS, or any other cloud platform.
-
-## 🧑‍🚀How to contact the Author
-You can contact me at: [LinkedIn](https://www.linkedin.com/in/shaon2221)
-
-[**Return**](#Top)
 
 ---
