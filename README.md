@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
 <br>WALMART-SALESBOT-AND-SEARCHGPT</h1> 
 <h3>◦ SalesBot-SearchGPT: Innovating Sales Agent of Walmart, and Custom Search GPT bot!</h3>
-<h5 align="center">Connect with me: <a href="https://www.linkedin.com/in/shaon2221">LinkedIn</a> 🚀</h5>
+<h5 align="center">Connect with me: <a href="https://www.linkedin.com/in/shaon2221](https://www.linkedin.com/in/swapnil-banduke/">LinkedIn</a> 🚀</h5>
 <h3>◦ Developed with the software and tools below.</h3>
 
 <p align="center">
@@ -16,11 +16,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white" alt="Pytest" />
 <img src="https://img.shields.io/badge/Wikipedia-000000.svg?style=flat-square&logo=Wikipedia&logoColor=white" alt="Wikipedia" />
-</p>
-<img src="https://img.shields.io/github/license/Shaon2221/Walmart-SalesBot-and-SearchGPT?style=flat-square&color=5D6D7E" alt="GitHub license" />
-<img src="https://img.shields.io/github/last-commit/Shaon2221/Walmart-SalesBot-and-SearchGPT?style=flat-square&color=5D6D7E" alt="git-last-commit" />
-<img src="https://img.shields.io/github/commit-activity/m/Shaon2221/Walmart-SalesBot-and-SearchGPT?style=flat-square&color=5D6D7E" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/languages/top/Shaon2221/Walmart-SalesBot-and-SearchGPT?style=flat-square&color=5D6D7E" alt="GitHub top language" />
 </div>
 
 
