@@ -78,7 +78,7 @@ Language Models: Large language models are utilized in combination with LangChai
     ├── search_capabilities.py
     ├── streamlit_interface.py
     └── walmart_functions.py
-
+</details>
 ---
 ## 🚀 Getting Started
 
