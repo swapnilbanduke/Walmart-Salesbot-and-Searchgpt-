@@ -4,8 +4,6 @@
 <br>WALMART-SALESBOT-AND-SEARCHGPT</h1> 
 <h3>◦ SalesBot-SearchGPT: Innovating Sales Agent of Walmart, and Custom Search GPT bot!</h3>
 <h5 align="center">Connect with me: <a href="https://www.linkedin.com/in/swapnil-banduke/">LinkedIn</a> 🚀</h5>
-<h3>◦ Developed with the software and tools below.</h3>
-
 </div>
 
 
